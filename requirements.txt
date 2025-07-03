@@ -10,6 +10,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 idna==3.10
 imageio==2.37.0
+importlib_resources==6.5.2
 Jinja2==3.1.6
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
@@ -17,6 +18,7 @@ lazy_loader==0.4
 MarkupSafe==3.0.2
 narwhals==1.45.0
 networkx==3.4.2
+nibabel==5.3.2
 numpy==2.2.6
 packaging==25.0
 pandas==2.3.0
